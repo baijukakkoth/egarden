@@ -1,0 +1,1 @@
+web: gunicorn fristProject.wsgi --log-file -
